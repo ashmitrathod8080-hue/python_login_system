@@ -69,6 +69,3 @@ This is a learning project. For production use, implement proper security measur
 - Implement rate limiting and account lockout
 - Use prepared statements (already done with parameterized queries)
 
-## License
-
-Feel free to use and modify this code.
